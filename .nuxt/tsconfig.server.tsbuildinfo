@@ -1,0 +1,1 @@
+{"root":["./content/types.d.ts","./content/llms.d.ts","./types/nitro-nuxt.d.ts","../modules/assistant/runtime/server/api/search.ts","../server/mcp/tools/get-page.ts","../server/mcp/tools/list-pages.ts","../server/routes/sitemap.xml.ts","../server/utils/content.ts","../shared/types/docus.d.ts","./types/nitro.d.ts"],"version":"5.9.3"}

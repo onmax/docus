@@ -1,0 +1,1 @@
+{"root":["./nuxt.node.d.ts","../modules/config.ts","../modules/css.ts","../modules/markdown-rewrite.ts","../modules/routing.ts","../nuxt.config.ts","../modules/assistant/index.ts","../nuxt.schema.ts"],"version":"5.9.3"}
